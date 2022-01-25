@@ -1,0 +1,3 @@
+/give pikasan commandblock 1
+*places the command block*
+/execute at @e[type=your_mom] run /summon entity.data.cum
